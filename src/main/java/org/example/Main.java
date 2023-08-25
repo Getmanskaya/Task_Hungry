@@ -13,7 +13,7 @@ public class Main {
         Pizza myasnay = new Pizza(5,1);
 
         timon.eat(margarita);
-        kuzya.eat(18);
+        kuzya.eat(2);
 
 //       animal.Cat tihon = new animal.Cat("Tihon", 15);
 //       animal.Cat tom = new animal.Cat("Tom", 15);
@@ -35,8 +35,8 @@ public class Main {
 //        Pizza margarita = new Pizza(5,3);
 //        Pizza myasnay = new Pizza(5,1);
 
-        System.out.println(margarita.getSatiety());
-        System.out.println(myasnay.getSatiety());
+ //      System.out.println(margarita.getSatiety());
+ //      System.out.println(myasnay.getSatiety());
 
     }
 }
